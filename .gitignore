@@ -137,3 +137,5 @@ dmypy.json
 *.json
 *.xml
 *.html
+
+exam.ipynb
