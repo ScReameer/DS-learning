@@ -139,5 +139,6 @@ dmypy.json
 *.html
 
 exam.ipynb
+factorial_convert.ipynb
 word_convert.ipynb
 *.logs
