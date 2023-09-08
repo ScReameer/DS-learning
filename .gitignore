@@ -143,3 +143,5 @@ factorial_convert.ipynb
 word_convert.ipynb
 *.logs
 catboost_info
+Exp_AR_TS-check.ipynb
+Exp_AR_TS.ipynb
