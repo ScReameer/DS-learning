@@ -150,3 +150,5 @@ project-Part2.ipynb
 project-Part3.ipynb
 ts_validation.ipynb
 Prophet.ipynb
+*.joblib
+hw1_check_ol.py
