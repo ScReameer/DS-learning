@@ -152,3 +152,4 @@ ts_validation.ipynb
 Prophet.ipynb
 *.joblib
 hw1_check_ol.py
+*.pmml
