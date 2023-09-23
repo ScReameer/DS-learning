@@ -154,3 +154,6 @@ Prophet.ipynb
 hw1_check_ol.py
 hw2_check_ol.py
 *.pmml
+project_*
+*venv/
+!requirements.txt
